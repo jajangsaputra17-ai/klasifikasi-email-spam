@@ -1,8 +1,5 @@
-klasifikasi-email-spam
-Tugas Laporan Praktikum Machine Learning - Klasifikasi Email Spam dan Ham.
-
 Klasifikasi Email Spam dan Ham (NLP)
-
+Tugas Laporan Praktikum Machine Learning - Klasifikasi Email Spam dan Ham.
 Proyek ini dibuat untuk memenuhi Tugas Laporan Praktikum Machine Learning.
 
 Deskripsi Proyek
